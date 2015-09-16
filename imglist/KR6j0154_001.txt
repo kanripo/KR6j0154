@@ -1,0 +1,7 @@
+001-0386b00	T 001-0386b	buddhist/T-taisho/T19/03/T19-0386.png
+001-0386c00	T 001-0386c	buddhist/T-taisho/T19/03/T19-0386.png
+001-0387a00	T 001-0387a	buddhist/T-taisho/T19/03/T19-0387.png
+001-0387b00	T 001-0387b	buddhist/T-taisho/T19/03/T19-0387.png
+001-0387c00	T 001-0387c	buddhist/T-taisho/T19/03/T19-0387.png
+001-0388a00	T 001-0388a	buddhist/T-taisho/T19/03/T19-0388.png
+001-0388b00	T 001-0388b	buddhist/T-taisho/T19/03/T19-0388.png
